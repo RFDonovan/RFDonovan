@@ -1,4 +1,4 @@
-## Hi there! 👋😀,
+## Hi there! 👋,
 
 My name is **Donovan** and I currently work as a Fullstack Developer. 
 
