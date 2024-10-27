@@ -1,11 +1,5 @@
-## Hi there! 👋,
+My name is **Donovan**. I'm a tinkerer and a Fullstack Developer. 
 
-My name is **Donovan** and I currently work as a Fullstack Developer. 
+Beyond coding, I have a deep interest in philosophy.
 
-I'm passionate about anything around the `JVM Languages`  and `NodeJS` and also very keen on **Data Engineering**.
-
-I'd like to contribute to some **FOSS** projects in the future (like **KRITA** for example, I love it so much!).
-
-
-
-
+My go-to tools include **AwesomeWM** (or **GlazeWM** on Windows), **Logseq**, **Emacs**, and **Neovim** ( yes, both :D ).
